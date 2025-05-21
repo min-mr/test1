@@ -1,3 +1,2 @@
 Nice to meet you. I am the super dog.
-
-super dog test
+print("super dog")
