@@ -3,7 +3,7 @@ Nice to meet you. I am the super dog.
 
 
 # 승호 추가
-Hello Hello
+Hello Hello. Thank you!
 
 
 # 현도 추가
